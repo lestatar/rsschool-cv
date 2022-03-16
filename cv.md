@@ -1,6 +1,4 @@
-###
 # __Aleksey Zelenkeev__
-###
 ## __Contacts__
 - __Location:__ Chelyabinsk, Russian
 - __Email:__ bazet12@gmail.com

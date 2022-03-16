@@ -3,7 +3,7 @@
 ###
 ## __Contacts__
 - __Location:__ Chelyabinsk, Russian
-- __Email:__ <addres >
+- __Email:__ bazet12@gmail.com
 - __GitHub:__ [lestatar](https://github.com/lestatar)
 
 ## __About Me__
